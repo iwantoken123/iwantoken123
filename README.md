@@ -1,4 +1,4 @@
-# Hi there, I'm Iwan Nurkirom - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Iwan Nurkirom - [Linkedin](www.linkedin.com/in/iwan-nurkirom-319310215) 👋
 ## About me:
 - 🔭 I’m currently working at [PT.Mindotama Avia Teknik](http://www.mindotama.co.id/)
 - 🌱 I’m currently learning Git and Kubernetes
@@ -18,7 +18,7 @@
    - Installing and Configuring Earthquake Sensors. Including Seismometer, Modem, VSAT Antenna, GSM, and Communication in the most remote      locations in (Sabang - Merauke) Indonesia
    - 
    - 
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
+#### 2. [PT. Faasri UTama Sakti](https://www.faasri-net.co.id/) | Technical Support & IT HelpDesk at [PT.Unilever Indonesia.TBK](https://www.unilever.co.id/) | South Jakarta `2019-2019`
    - Manage to update CAD of distribution lines using AutoCAD
    - Manage to recap fault in distribution network
    - Research on Maintenance of 20 kV Cubicle in Pemalang
