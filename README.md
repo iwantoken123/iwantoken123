@@ -16,12 +16,13 @@
 ## Work Experience:
 #### 1. [PT.Mindotama Avia Teknik](http://www.mindotama.co.id/) | Senior System Engineer | Jakarta `August'2014 - Now`
    - Installing and Configuring Earthquake Sensors. Including Seismometer, Modem, VSAT Antenna, GSM, and Communication in the most remote      locations in (Sabang - Merauke) Indonesia
-   - 
-   - 
+   - Central Hub at BMKG 
+   - System Administrator (Debian)
 #### 2. [PT. Faasri UTama Sakti](https://www.faasri-net.co.id/) | Technical Support & IT HelpDesk at [PT.Unilever Indonesia.TBK](https://www.unilever.co.id/) | South Jakarta `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+   - Manage to update Inventory Asset All Item 
+   - Migrasi PC or Laptop Client
+   - Creat User Fingerprint Client
+   - Creat and Configuration User Identity 
 ---
 
 ### Languages and Tools:
